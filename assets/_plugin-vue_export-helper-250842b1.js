@@ -1,0 +1,1 @@
+const s=async(t,o,r)=>{var e={method:t};return t=="post"&&(e.body={params:r}),await fetch(o,e).then(n=>n.json())},c=(t,o)=>s("get",t+o),a=(t,o)=>{const r=t.__vccOpts||t;for(const[e,n]of o)r[e]=n;return r};export{a as _,c as h};
