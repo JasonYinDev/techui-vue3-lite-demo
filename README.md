@@ -9,3 +9,5 @@ It can be accessed through the following links
 [TechUI-lite Demo](https://lite.techui.net)
 
 [TechUI-lite Docs](https://lite.techui.net/docs)
+
+[TechUI-lite DevPack](https://github.com/ayin86/techui-vue3-lite)
